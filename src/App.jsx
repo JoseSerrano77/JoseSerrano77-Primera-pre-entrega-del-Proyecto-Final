@@ -17,7 +17,7 @@ function App() {
    
    
     <NavBar/> 
-    <ItemListContainer saludo='Hola Coders Felices Fiestas!!!!!!!!'/>
+    <ItemListContainer saludo='Hola Coders Felices Fiestas!!!'/>
     
     </>
     // <ComponenteContenedor saludo='Hola Home' />  // 
