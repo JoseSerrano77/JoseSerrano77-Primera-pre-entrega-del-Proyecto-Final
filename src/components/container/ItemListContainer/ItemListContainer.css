@@ -1,0 +1,10 @@
+body{
+   
+    background-image: url(/src/assets/img/1.jpg); 
+   
+background-size:cover;
+
+}
+.promo{
+    padding-top: 20px;
+}
